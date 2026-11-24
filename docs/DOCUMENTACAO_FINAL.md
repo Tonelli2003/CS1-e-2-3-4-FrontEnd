@@ -10,7 +10,7 @@
 | Vinícius Adrian Siqueira de Oliveira | RM564962 |
 | Sofia Bueris Netto de Souza | RM565818 |
 
-**Repositório:** <https://github.com/Tonelli2003/CS1-e-2-3-4-FrontEnd> (branch `CS3`)
+**Repositório:** <https://github.com/Tonelli2003/CS1-e-2-3-4-FrontEnd> (branch `CS4`)
 **Stack:** Python 3.11+ · Streamlit ≥ 1.49 · Plotly ≥ 5.20 · sem pandas e sem numpy
 
 ---
