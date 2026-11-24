@@ -2,7 +2,7 @@
 
 ### Challenge Sprint 1, 2, 3 & 4 — FIAP · 2026
 
-> 📄 **Documentação final (Sprint 4):** [`docs/DOCUMENTACAO_FINAL_ABNT.pdf`](docs/DOCUMENTACAO_FINAL_ABNT.pdf) (versão ABNT) · [`docs/DOCUMENTACAO_FINAL.md`](docs/DOCUMENTACAO_FINAL.md): evolução, diferenciais, pendências e proposta de arquitetura.
+> 📄 **Documentação final (Sprint 4):** [`docs/DOCUMENTACAO_Sprint-ForntEnd.pdf`](docs/DOCUMENTACAO_Sprint-ForntEnd.pdf) · [`docs/DOCUMENTACAO_FINAL.md`](docs/DOCUMENTACAO_FINAL.md): evolução, diferenciais, pendências e proposta de arquitetura.
 
 ![Painel de Alertas](docs/img/s3_painel_alertas.png)
 
