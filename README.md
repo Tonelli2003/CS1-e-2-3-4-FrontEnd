@@ -1,11 +1,15 @@
 # 🏭 Gestão de Ativos Industriais
 
-### Challenge Sprint 1, 2 & 3 — FIAP · 2026
+### Challenge Sprint 1, 2, 3 & 4 — FIAP · 2026
+
+> 📄 **Documentação final (Sprint 4):** [`docs/DOCUMENTACAO_FINAL_ABNT.pdf`](docs/DOCUMENTACAO_FINAL_ABNT.pdf) (versão ABNT) · [`docs/DOCUMENTACAO_FINAL.md`](docs/DOCUMENTACAO_FINAL.md): evolução, diferenciais, pendências e proposta de arquitetura.
+
+![Painel de Alertas](docs/img/s3_painel_alertas.png)
 
 ![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.33%2B-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-5.20%2B-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Sprint 3](https://img.shields.io/badge/Sprint_3-Passing-22c55e?style=flat-square)
+![Sprint 4](https://img.shields.io/badge/Sprint_4-Documentação_Final-22c55e?style=flat-square)
 ![License](https://img.shields.io/badge/License-Academic-64748B?style=flat-square)
 
 > Plataforma de gerenciamento e monitoramento de ativos industriais desenvolvida em **Python + Streamlit** como entregável das Sprints 1, 2 e 3 do Challenge FIAP. A aplicação opera com **zero dependências externas para processamento de dados**, utilizando exclusivamente os built-ins e estruturas nativas do Python. Visualizações interativas são geradas com **Plotly**.
@@ -21,6 +25,7 @@
 - [Páginas e Funcionalidades](#páginas-e-funcionalidades)
 - [Arquitetura de Avaliação de Saúde](#arquitetura-de-avaliação-de-saúde)
 - [Design System](#design-system)
+- [Sprint 4 — Documentação Final](#sprint-4--documentação-final)
 - [Equipe de Desenvolvimento](#equipe-de-desenvolvimento)
 
 ---
@@ -207,6 +212,19 @@ from utils import alert_card, recommendation_card, event_row
 
 ---
 
+## Sprint 4 — Documentação Final
+
+A Sprint 4 consolida o projeto sem novas funcionalidades de código. A documentação completa está em [`docs/DOCUMENTACAO_FINAL.md`](docs/DOCUMENTACAO_FINAL.md) e inclui:
+
+- evolução rastreável Sprint 2 → Sprint 3 (versão final) com prints antes/depois;
+- diferenciais técnicos e de UX e a jornada *monitorar → receber alerta → agir*;
+- auditoria funcional com as inconsistências encontradas e o backlog priorizado;
+- proposta de arquitetura de produção (FastAPI, API Key, trace_id, feedback de IA).
+
+Evidências visuais: [`docs/img/`](docs/img/).
+
+---
+
 ## Equipe de Desenvolvimento
 
 | Nome | RM |
@@ -219,4 +237,4 @@ from utils import alert_card, recommendation_card, event_row
 
 ---
 
-*Challenge Sprint 1, 2 & 3 · FIAP · 2026 · Stack: Python 3.11+ · Streamlit 1.33+ · Plotly 5.20+ · Zero-Dependency Data Processing*
+*Challenge Sprint 1, 2, 3 & 4 · FIAP · 2026 · Stack: Python 3.11+ · Streamlit 1.33+ · Plotly 5.20+ · Zero-Dependency Data Processing*
